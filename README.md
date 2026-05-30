@@ -1,3 +1,61 @@
+# 🍲 CookBook
+
+A React Native mobile application for exploring food recipes, ingredients, and cooking instructions with a clean and user-friendly interface.
+
+## Features
+
+* Browse Recipes
+* View Recipe Details
+* Search Recipes
+* Modern UI Design
+* Fast and Responsive Experience
+
+## Screenshots
+
+### Home Screen
+
+![Home Screen](./screenshots/home.png)
+
+### Recipe Details Screen
+
+![Recipe Details](./screenshots/details.png)
+
+### Search Screen
+
+![Search Screen](./screenshots/search.png)
+
+## Tech Stack
+
+* React Native
+* JavaScript
+* Axios
+* React Navigation
+
+## Installation
+
+```bash
+npm install
+```
+
+### Run Android
+
+```bash
+npm run android
+```
+
+### Run iOS
+
+```bash
+npm run ios
+```
+
+
+
+
+
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
