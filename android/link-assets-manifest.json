@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Bakers.otf",
+      "sha1": "0e198d192ceb61ab82272e8054f41b31477ec8a0"
+    },
+    {
+      "path": "src/assets/fonts/Fonarto.ttf",
+      "sha1": "988e90cac8fcf33a86b896877f433ba72ce9bd50"
+    },
+    {
+      "path": "src/assets/fonts/Montavie.ttf",
+      "sha1": "eb18205bc74fcd25de0632bfa2afb3f813418f3f"
+    },
+    {
+      "path": "src/assets/fonts/RusticRoadway.otf",
+      "sha1": "5d7943e8d2adab22df161330b2355ee1c69cc5e5"
+    }
+  ]
+}
