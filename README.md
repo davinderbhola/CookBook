@@ -20,9 +20,9 @@ A React Native mobile application for exploring food recipes, ingredients, and c
 
 ![Recipe Details](./screenshots/details.png)
 
-### Search Screen
+### Youtube Screen
 
-![Search Screen](./screenshots/search.png)
+![Search Screen](./screenshots/youtube.png)
 
 ## Tech Stack
 
@@ -48,6 +48,9 @@ npm run android
 ```bash
 npm run ios
 ```
+
+
+
 
 
 
